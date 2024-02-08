@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 # 💫 About Me:
 🧠 Cursando Front-end/js @ SenacRS<br>📚 Auto-didata<br><br>👀 Você disse... conhecimento?
