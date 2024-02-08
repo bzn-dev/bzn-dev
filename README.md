@@ -1,6 +1,5 @@
-<!--
 # 💫 About Me:
-🧠 Cursando Front-end/js @ SenacRS<br>📚 Auto-didata<br><br>👀 Você disse... conhecimento?
+<br>🧠 Cursando Front-end/js @ SenacRS<br>📚 Auto-didata<br>👀 Você disse... conhecimento?<br>
 
 
 # 💻 Tech Stack:
@@ -14,4 +13,3 @@
 [![](https://visitcount.itsvg.in/api?id=bznfsj&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
